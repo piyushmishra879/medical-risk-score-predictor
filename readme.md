@@ -80,3 +80,20 @@ Real-time risk prediction
 Overall health risk score
 Per-patient explainability
 Clean dark-themed UI
+
+
+🛠️ Tech Stack:-
+1.Python
+2.Pandas / NumPy
+3.Scikit-learn
+4.XGBoost
+5.Streamlit
+6.Joblib
+
+Key Learnings:-
+
+1.Handling real-world medical data
+2.Managing missing values at scale
+3.Training multiple ML models on a shared dataset
+4.Model explainability in healthcare ML
+5.Building deployable ML applications
